@@ -1,1 +1,3 @@
-# gitlab-connector
+GitLab.com Connecor
+===
+
